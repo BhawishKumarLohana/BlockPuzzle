@@ -1,20 +1,18 @@
-# BlockPuzzle
-The Block Puzzle project is a Java programming challenge where you will complete the implementation of a block puzzle game. The main file, BlockPuzzle.java, provides a skeleton code with various methods that you need to complete based on the instructions provided.
-
-##Introduction
-
-Welcome to the Block Puzzle program! In this repository, you will find the BlockPuzzle.java file.
+Block Puzzle Program Solution
 Overview
 
+This repository contains my solution to the Block Puzzle assignment. The project implements a game using arrays and 2D arrays, focusing on parameter passing and method construction. The assignment emphasizes foundational programming concepts without the use of advanced data structures like ArrayList, Set, or Map.
+Learning Outcomes
 
-##Getting Started
+Through this project, I practiced:
 
-    Clone the Repository: Start by cloning this repository to your local machine.
-    Open BlockPuzzle.java: Navigate to the BlockPuzzle.java file to view the skeleton code and instructions.
-    Run the java file by: java -jar BlockPuzzle.java
+    Working with arrays and 2D arrays
+    Parameter passing and method usage
+    Game logic and implementation techniques
 
-Contributing
+The assignment required approximately six hours to complete, highlighting the importance of starting early and seeking assistance when needed.
+Project Structure
 
-Feel free to contribute by submitting pull requests with improvements or additional features!
+The project consists of the following Java file:
 
-Happy coding!
+    BlockPuzzle.java: The main program containing the game logic and methods to be completed.
