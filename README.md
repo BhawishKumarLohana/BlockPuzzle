@@ -2,9 +2,8 @@ Block Puzzle Program Solution
 Overview
 
 This repository contains my solution to the Block Puzzle assignment. The project implements a game using arrays and 2D arrays, focusing on parameter passing and method construction. The assignment emphasizes foundational programming concepts without the use of advanced data structures like ArrayList, Set, or Map.
-Learning Outcomes
 
-Through this project, I practiced:
+Learning Outcomes, Through this project, I practiced:
 
     Working with arrays and 2D arrays
     Parameter passing and method usage
